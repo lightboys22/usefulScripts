@@ -10,3 +10,9 @@ xcuserdata/
 # mac OS
 .DS_Store
 .gitignore.swp
+
+# Input files
+editImages/app_icon.png
+
+# Output directory
+editImages/outputs
